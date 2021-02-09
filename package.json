@@ -2,7 +2,7 @@
   "name": "expowhoami",
 	"displayName": "expowhoami",
 	"description": "expowhoami lets you quickly know which expo account you are logged into",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository":"https://github.com/Sidibedev/vscode-expo-whoami",
 	"publisher": "Sidibedev",
 	"engines": {

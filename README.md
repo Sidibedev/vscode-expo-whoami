@@ -6,7 +6,7 @@ expowhoami lets you quickly know which expo account you are logged into
 
 Just open the vscode command palette and write expo whoami
 
-\!\[feature X\]\(images/showcase.gif\)
+![ExpoWhoami](https://media.giphy.com/media/qSPeaEEAmZBoVyv58u/giphy.gif)
 
 ## Requirements
 
